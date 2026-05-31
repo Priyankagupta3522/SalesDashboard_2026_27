@@ -1,5 +1,4 @@
 # SalesDashboard_2026_27
-# SalesDashboard_2026_27
 
 ## 📊 Project Overview
 This repository contains an **Interactive Power BI Dashboard** showcasing **sample sales data for 2026-27**.  
